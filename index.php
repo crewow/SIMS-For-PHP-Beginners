@@ -69,7 +69,7 @@
     ================================================== -->
     <footer class="footer">
       <div class="container">
-        <?php  include('footer.php'); ?>
+        <?php  include('Footer.php'); ?>
       </div>
     </footer>
 
